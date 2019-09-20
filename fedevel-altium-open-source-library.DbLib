@@ -1,0 +1,43 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MSDASQL.1;Persist Security Info=False;Data Source=youtube-altium-db-library;Initial Catalog=library;Option=2;
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=`
+RightQuote=`
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(45)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=ALTIUM
+LastFocusedTable=CreateComponent
+[Table1]
+SchemaName=
+TableName=CreateComponent
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Name0=113|Description0=180|Library Path0=131|Library Ref0=77|Footprint Path0=133|Footprint Ref0=92|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=102|Manufacturer Part Number 10=169|Stock 10=60|Pricing 10=256|RoHS0=51|Case/Package0=93|Number of Pins0=102|Case Code (Metric)0=118|Case Code (Imperial)0=127|Min Operating Temperature0=166|Max Operating Temperature0=167|Tolerance0=72|Packaging0=80|Termination0=84|Resistance0=77|Package Quantity0=113|Power Rating0=92|Composition0=89|Temperature Coefficient0=146|Voltage Rating0=100|Military Standard0=111|Voltage Rating (DC)0=124|Max Power Dissipation0=140|Number of Terminations0=147|Features0=104|Length0=59|Height0=58|Width0=57|Depth0=55|Lead Free0=72|REACH SVHC0=89|ComponentLink1URL0=238|ComponentLink1Description0=238|ComponentLink2URL0=238|ComponentLink2Description0=238|ComponentLink3URL0=248|ComponentLink3Description0=248|ComponentLink4URL0=245|ComponentLink4Description0=245|ComponentLink5URL0=248|ComponentLink5Description0=248|ComponentLink6URL0=238|ComponentLink6Description0=238|Weight0=65|Contact Plating0=102|Radiation Hardening0=131|ComponentLink7URL0=252|ComponentLink7Description0=252|ComponentLink8URL0=248|ComponentLink8Description0=248|ComponentLink9URL0=248|ComponentLink9Description0=248|ComponentLink10URL0=248|ComponentLink10Description0=248|ComponentLink11URL0=248|ComponentLink11Description0=248|ComponentLink12URL0=248|ComponentLink12Description0=248|ComponentLink13URL0=248|ComponentLink13Description0=248|ComponentLink14URL0=248|ComponentLink14Description0=248|ComponentLink15URL0=248|ComponentLink15Description0=248|ComponentLink16URL0=248|ComponentLink16Description0=248|Comment0=72
+[FieldMap1]
+Options=FieldName=CreateComponent.Part Name|TableNameOnly=CreateComponent|FieldNameOnly=Part Name|FieldType=0|ParameterName=Part Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=CreateComponent.Description|TableNameOnly=CreateComponent|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=CreateComponent.Library Path|TableNameOnly=CreateComponent|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=CreateComponent.Library Ref|TableNameOnly=CreateComponent|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=CreateComponent.Footprint Path|TableNameOnly=CreateComponent|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=CreateComponent.Footprint Ref|TableNameOnly=CreateComponent|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
